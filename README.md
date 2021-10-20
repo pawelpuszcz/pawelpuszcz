@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pawelpuszcz
 - 👀 I’m interested in Python, SQL, Data Engineering, Data Science
 - 🌱 I’m currently learning Django, Machine learning
-- 💞️ I’m looking to collaborate on anything
+- 💞️ I’m looking to collaborate on anything related to my interests
 - 📫 How to reach me: write me
 
 <!---
